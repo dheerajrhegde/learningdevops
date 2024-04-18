@@ -1,1 +1,2 @@
 File A - created for trying out git commands
+Trying to update the file on git hub in parallel to changes in local
