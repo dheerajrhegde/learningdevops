@@ -1,1 +1,2 @@
 File C - created for learning devops
+Updated fileC for featureB as well
